@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "nome": "Mel",
+    "idade": "6 aninhos",
+    "descricao": "Gatinha brincalhona e carinhosa.",
+    "imagem": "../assets/Desktop/img/mel.png"
+  },
+
+    {
+    "id": 2,
+    "nome": "Shoyu",
+    "idade": "9 aninhos",
+    "descricao": "Adora um colinho",
+    "imagem": "../assets/Desktop/img/shoyu.png"
+  },
+
+      {
+    "id": 3,
+    "nome": "Jujuba",
+    "idade": "12 aninhos",
+    "descricao": "Esperta e amorosa",
+    "imagem": "../assets/Desktop/img/Jujuba.png"
+  },
+
+  {
+    "id": 4,
+    "nome": "Pituca",
+    "idade": "4 meses",
+    "descricao": "Arteira e fofa",
+    "imagem": "../assets/Desktop/img/Pituca.jpg"
+  },
+
+  {
+    "id": 5,
+    "nome": "Oreo",
+    "idade": "2 meses",
+    "descricao": "Inteligente e aprende rápido onde é o banheirinho",
+    "imagem": "../assets/Desktop/img/oreo.jpg"
+  },
+
+   {
+    "id": 6,
+    "nome": "Maze",
+    "idade": "3 meses",
+    "descricao": "Brincalhona e curiosa",
+    "imagem": "../assets/Desktop/img/maze.png"
+  },
+
+   {
+    "id": 7,
+    "nome": "Dengo",
+    "idade": "2 aninhos",
+    "descricao": "Dócil e amoroso",
+    "imagem": "../assets/Desktop/img/dengo.PNG"
+  },
+
+    {
+    "id": 8,
+    "nome": "Nico",
+    "idade": "7 aninhos",
+    "descricao": "Se dá bem com outros pets e crianças",
+    "imagem": "../assets/Desktop/img/Nico.png"
+  },
+
+   {
+    "id": 9,
+    "nome": "Kuro",
+    "idade": "5 meses",
+    "descricao": "Curioso e brincalhão",
+    "imagem": "../assets/Desktop/img/kuro.jpg"
+  },
+
+   {
+    "id": 10,
+    "nome": "Luna",
+    "idade": "2 aninhos",
+    "descricao": "Companheira e amorosa",
+    "imagem": "../assets/Desktop/img/luna.jpg"
+  },
+
+    {
+    "id": 11,
+    "nome": "Simba",
+    "idade": "5 meses",
+    "descricao": "Adora um carinho e cochilo no colo",
+    "imagem": "../assets/Desktop/img/simba.jpg"
+  },
+
+      {
+    "id": 12,
+    "nome": "Tofu",
+    "idade": "3 aninhos",
+    "descricao": "Carinhosa e Curiosa",
+    "imagem": "../assets/Desktop/img/tofu.PNG"
+  }
+]

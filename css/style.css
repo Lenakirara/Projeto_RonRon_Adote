@@ -1,0 +1,191 @@
+body {
+  background-color: #d1e5e8;
+}
+
+.bg-custom {
+  background-color: #13293D;
+}
+.logo-custom {
+  width: 300px;
+  height: 60px;
+}
+
+.nav-item {
+  font-size: 30px;
+  white-space: nowrap;
+}
+
+.banner {
+  height: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner-texto {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.h5-custom {
+  color: rgb(28, 177, 226);
+  /* text-shadow: 0.1em 0.0em #ff0; */
+  -webkit-text-stroke-width:0.8px;
+  -webkit-text-stroke-color: black;
+}
+
+
+/* ==== About ==== */
+.about {
+  margin-top: 0;
+  padding-top: 1rem;
+}
+.about img {
+  width: 80px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.about p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.media-body {
+  flex: 1;
+}
+
+.about h4 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #13293D;
+  font-weight: 700;
+}
+
+
+/* ==== Card ==== */
+#adoption h2 {
+  color: #13293D;
+  font-size: 36px;
+}
+
+#cat-list {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 10px;
+}
+
+h2 i.fa-paw {
+  margin-right: 8px;
+  color: #5C9EAD;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  overflow: hidden;
+  text-align: center;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card-img-top {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.card-title {
+  color: #13293D;
+  font-size: 20px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 14px;
+  color: #555;
+  min-height: 40px;
+}
+
+.btn-primary {
+  background-color: #5C9EAD;
+  border: none;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #4b8c9c;
+}
+
+
+/* ==== Contato ==== */
+#contact {
+  background-image: url('../img//gato-dormindo.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  position: relative;
+  color: #d1e5e8;
+}
+
+#contact .container {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+  z-index: 2;
+  position: relative;
+  max-width: 600px;
+}
+
+#contact h2 {
+  color: #d1e5e8;
+  font-size: 36px;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+
+#formContato input,
+#formContato textarea {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000;
+}
+
+#formContato input::placeholder,
+#formContato textarea::placeholder {
+  color: #555;
+}
+
+.contato-texto {
+  color: #d1e5e8;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+/* ==== Footer ==== */
+footer {
+  background-color: #13293D;
+}
